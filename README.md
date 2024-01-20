@@ -1,6 +1,6 @@
 <div align="center">
   <picture>  
-    <img src="header.jpg" alt="header" />
+    <img src="images/header.jpg" alt="header" />
   </picture>
 </div>
 
@@ -32,7 +32,7 @@
 
 - <img alt="GIF" src="images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & DevOps/Cloud**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **anything**. <br>
+- <img src="images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **anything**. <br>
 - <img src="images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[Mail](badreddine.malek@gmail.com)**<br>
 - &nbsp;&nbsp;<img src="images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
