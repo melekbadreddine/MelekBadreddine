@@ -5,7 +5,7 @@
 </div>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=MelekBadreddine&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2MelekBadreddine&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMelekBadreddine&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![linkedin badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/melek-badreddine/)
 
 <hr></hr>
@@ -36,21 +36,17 @@
 - <img src="images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[Mail](badreddine.malek@gmail.com)**<br>
 - &nbsp;&nbsp;<img src="images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-<div align="center" >
-<a  href="https://github.com/MelekBadreddine">
+<div align="center">
+  <a href="https://github.com/MelekBadreddine">
+    <img src="https://raw.githubusercontent.com/MelekBadreddine/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/MelekBadreddine/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/MelekBadreddine/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  </a>
 
-<img src="https://raw.githubusercontent.com/MelekBadreddine/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/MelekBadreddine/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/MelekBadreddine/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/MelekBadreddine/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
+  <details>
+    <summary>More stats</summary>
+    <img align="center" src="https://raw.githubusercontent.com/MelekBadreddine/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+  </details>
   
 <hr></hr>
 
