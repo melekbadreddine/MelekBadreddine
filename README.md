@@ -36,8 +36,6 @@
 - <img src="images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[badreddine.malek@enis.tn]**<br>
 - &nbsp;&nbsp;<img src="images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelekBadreddine&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 <div align="center">
   <hr></hr>
 <b>Code Cycle</b> <br>
