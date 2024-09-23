@@ -35,7 +35,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agrafana"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
   </p>
 
-    <ul>
+  <ul>
       <h2> - 💡 Content and Key features of the project </h2>
       <li>
         <ul> <b>🌀 Microservices Deployment: </b>
@@ -70,7 +70,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aangular"><img alt="Angular" src="https://img.shields.io/badge/Angular-%E03A3E.svg?logo=angular&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akubernetes"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aterraform"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%237B42BC.svg?logo=terraform&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aazure"><img alt="Azure Virtual Machines" src="https://img.shields.io/badge/Azure%20Virtual%20Machines-%230D9EED.svg?logo=azuredevops&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aazure"><img alt="Azure" src="https://img.shields.io/badge/Azure-%23007FFF.svg?logo=azure&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajenkins"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asonarqube"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-%23FCA121.svg?logo=sonarqube&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atrivy"><img alt="Trivy" src="https://img.shields.io/badge/Trivy-%231D2C6E.svg?logo=trivy&logoColor=white"></a>
@@ -80,7 +80,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agrafana"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
   </p>
 
-    <ul>
+  <ul>
       <h2> - 💡 Content and Key features of the project </h2>
       <li>
         <ul> <b>🌀 Web Application for Docker API Manipulation: </b>
@@ -131,7 +131,7 @@
 
   </p>
 
-    <ul>
+  <ul>
       <h2> - 💡 Content and Key features of the project </h2>
       <li>
         <ul> <b>🌀 AI-Powered Therapy: </b>
@@ -169,7 +169,7 @@
     <p>🔘 This project focuses on implementing a full DevOps pipeline using Tekton on OpenShift. It includes automated CI/CD processes, manual Kubernetes deployments, and security enhancements to a Flask-based RESTful service developed using Test-Driven Development (TDD).</p>
   
   <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akanban"><img alt="Kanban Board" src="https://img.shields.io/badge/Kanban%20Board-%234B9CE2.svg?logo=kanban&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akanban"><img alt="Kanban" src="https://img.shields.io/badge/Kanban-%233F6B3C.svg?logo=kanban&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflask"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agithubactions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adocker"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
@@ -178,7 +178,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atekton"><img alt="Tekton" src="https://img.shields.io/badge/Tekton-%234388F3.svg?logo=tekton&logoColor=white"></a>
   </p>
 
-    <ul>
+  <ul>
       <h2> - 💡 Content and Key features of the project </h2>
       <li>
         <ul> <b>🌀 Sprint Planning and Task Management: </b>
