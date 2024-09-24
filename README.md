@@ -28,11 +28,11 @@
     <p>🔘 This project demonstrates the deployment and management of microservices using Istio's service mesh, leveraging tools such as Kiali, Jaeger, and Grafana for monitoring and tracing. Google's microservices-demo GitHub repository was utilized as the base for the microservices deployment.</p>
     
   <p>  
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amicroservices"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-%233E4A89.svg?logo=microservices&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aistio"><img alt="Istio" src="https://img.shields.io/badge/Istio-%23000000.svg?logo=istio&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akiali"><img alt="Kiali" src="https://img.shields.io/badge/Kiali-%23161F2F.svg?logo=kiali&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajaeger"><img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-%230E6EFF.svg?logo=jaeger&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agrafana"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
+      <a href="#"><img alt="Istio" src="https://img.shields.io/badge/Istio-%23000000.svg?logo=istio&logoColor=white"></a>
+      <a href="#"><img alt="Kiali" src="https://img.shields.io/badge/Kiali-%23009639.svg?logo=kiali&logoColor=white"></a>
+      <a href="#"><img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-%230E6EFF.svg?logo=jaeger&logoColor=white"></a>
+      <a href="#"><img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-%230046F5.svg?logo=argo&logoColor=white"></a>
+      <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
   </p>
 
   <ul>
@@ -65,19 +65,19 @@
     <p>🔘 This project involves developing, deploying, and managing a web application to manipulate Docker APIs. The application includes JWT-based security, CI/CD pipelines using Jenkins, and automated deployment with GitOps and ArgoCD. Infrastructure was provisioned using Terraform, and the application was monitored with Prometheus and Grafana.</p>
     
   <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aspringboot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajwt"><img alt="JWT" src="https://img.shields.io/badge/JWT-%23000000.svg?logo=jsonwebtokens&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aangular"><img alt="Angular" src="https://img.shields.io/badge/Angular-%E03A3E.svg?logo=angular&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akubernetes"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aterraform"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%237B42BC.svg?logo=terraform&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aazure"><img alt="Azure" src="https://img.shields.io/badge/Azure-%23007FFF.svg?logo=azure&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajenkins"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asonarqube"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-%23FCA121.svg?logo=sonarqube&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atrivy"><img alt="Trivy" src="https://img.shields.io/badge/Trivy-%231D2C6E.svg?logo=trivy&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aargocd"><img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-%230046F5.svg?logo=argo&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahelm"><img alt="Helm" src="https://img.shields.io/badge/Helm-%23000000.svg?logo=helm&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aprometheus"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agrafana"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
+      <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"></a>
+      <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-%23000000.svg?logo=jsonwebtokens&logoColor=white"></a>
+      <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%E03A3E.svg?logo=angular&logoColor=white"></a>
+      <a href="#"><img alt="Minikube" src="https://img.shields.io/badge/Minikube-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
+      <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%237B42BC.svg?logo=terraform&logoColor=white"></a>
+      <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
+      <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white"></a>
+      <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-%23FCA121.svg?logo=sonarqube&logoColor=white"></a>
+      <a href="#"><img alt="Trivy" src="https://img.shields.io/badge/Trivy-%231D2C6E.svg?logo=trivy&logoColor=white"></a>
+      <a href="#"><img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-%230046F5.svg?logo=argo&logoColor=white"></a>
+      <a href="#"><img alt="Helm" src="https://img.shields.io/badge/Helm-%23000000.svg?logo=helm&logoColor=white"></a>
+      <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white"></a>
+      <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
   </p>
 
   <ul>
@@ -120,14 +120,14 @@
     <p>🔘 This project demonstrates a generative AI-based therapy application for anxiety management, developed in collaboration with psychotherapists. The app integrates therapeutic models with AI-powered chatbots to provide interactive, personalized care. It leverages Flutter for cross-platform mobile development and Azure OpenAI API for chatbot interaction, ensuring smooth and scalable deployments using AKS.</p>
   
   <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Afirebase"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflask"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agit"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agithub"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adocker"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aaks"><img alt="Azure Kubernetes Service" src="https://img.shields.io/badge/Azure%20Kubernetes%20Service-%23007FFF.svg?logo=azurekubernetesservice&logoColor=white"></a>
+      <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white"></a>
+      <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
 
   </p>
 
@@ -169,13 +169,13 @@
     <p>🔘 This project focuses on implementing a full DevOps pipeline using Tekton on OpenShift. It includes automated CI/CD processes, manual Kubernetes deployments, and security enhancements to a Flask-based RESTful service developed using Test-Driven Development (TDD).</p>
   
   <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akanban"><img alt="Kanban" src="https://img.shields.io/badge/Kanban-%233F6B3C.svg?logo=kanban&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflask"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agithubactions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adocker"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akubernetes"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aopenshift"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-%23EE0000.svg?logo=redhatopenshift&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atekton"><img alt="Tekton" src="https://img.shields.io/badge/Tekton-%234388F3.svg?logo=tekton&logoColor=white"></a>
+      <a href="#"><img alt="Kanban" src="https://img.shields.io/badge/Kanban-%23026AA7.svg?logo=trello&logoColor=white"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-%23EE0000.svg?logo=redhatopenshift&logoColor=white"></a>
+      <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
+      <a href="#"><img alt="Tekton" src="https://img.shields.io/badge/Tekton-%234388F3.svg?logo=tekton&logoColor=white"></a>
   </p>
 
   <ul>
