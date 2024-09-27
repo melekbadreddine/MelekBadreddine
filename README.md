@@ -68,8 +68,8 @@
       <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"></a>
       <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apachemaven&logoColor=white"></a>
       <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-%23000000.svg?logo=jsonwebtokens&logoColor=white"></a>
-      <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?logo=swagger&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?logo=swagger&logoColor=white"></a>
       <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%E03A3E.svg?logo=angular&logoColor=white"></a>
       <a href="#"><img alt="Minikube" src="https://img.shields.io/badge/Minikube-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
       <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%237B42BC.svg?logo=terraform&logoColor=white"></a>
